@@ -19,6 +19,7 @@ RUN openssl req \
 
 # COPY default /etc/nginx/sites-available/.
 
+
 RUN mkdir -p /run/nginx
 
 EXPOSE 443
