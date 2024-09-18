@@ -27,8 +27,8 @@ else
                     --title="wordpress" \
                     --admin_user="$WORDPRESS_ADMIN_NAME" \
                     --admin_password="$WORDPRESS_ADMIN_PASS" \
-                    --admin_email="casper@cschuijt.nl" \
-                    --url="https://cschuijt.42.fr/" \
+                    --admin_email="ivan-mel@ivan-mel.nl" \
+                    --url="https://ivan-mel.42.fr/" \
                     --skip-email \
                     --allow-root
 
